@@ -54,7 +54,7 @@ components streamlit : --> https://components.streamlit.app
     ❯ pip list
 
         Package                   Version
-        ------------------------- ------------
+        ------------------------- -----------
         altair                    5.2.0
         attrs                     23.2.0
         blinker                   1.7.0
@@ -62,10 +62,6 @@ components streamlit : --> https://components.streamlit.app
         certifi                   2024.2.2
         charset-normalizer        3.3.2
         click                     8.1.7
-        contourpy                 1.2.0
-        cycler                    0.12.1
-        et-xmlfile                1.1.0
-        fonttools                 4.49.0
         gitdb                     4.0.11
         GitPython                 3.1.42
         idna                      3.6
@@ -73,31 +69,21 @@ components streamlit : --> https://components.streamlit.app
         Jinja2                    3.1.3
         jsonschema                4.21.1
         jsonschema-specifications 2023.12.1
-        kiwisolver                1.4.5
         markdown-it-py            3.0.0
         MarkupSafe                2.1.5
-        matplotlib                3.8.3
         mdurl                     0.1.2
         numpy                     1.26.4
-        opencv-python             4.9.0.80
-        openpyxl                  3.1.2
         packaging                 23.2
         pandas                    2.2.1
         pillow                    10.2.0
         pip                       22.0.4
-        plotly                    5.19.0
         protobuf                  4.25.3
-        psycopg2                  2.9.9
         pyarrow                   15.0.0
         pydeck                    0.8.1b0
         Pygments                  2.17.2
-        pyparsing                 3.1.2
-        pypng                     0.20220715.0
         python-dateutil           2.9.0.post0
         python-decouple           3.8
-        python-dotenv             1.0.1
         pytz                      2024.1
-        qrcode                    7.4.2
         referencing               0.33.0
         requests                  2.31.0
         rich                      13.7.1
@@ -105,7 +91,6 @@ components streamlit : --> https://components.streamlit.app
         setuptools                58.1.0
         six                       1.16.0
         smmap                     5.0.1
-        SQLAlchemy                2.0.28
         streamlit                 1.31.1
         streamlit-aggrid          0.3.4.post3
         streamlit-option-menu     0.3.12
